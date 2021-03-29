@@ -1,0 +1,3 @@
+[submodule "workbench-analysis-dev-tools"]
+	path = workbench-analysis-dev-tools
+	url = git@github.com:all-of-us/workbench-analysis-dev-tools.git
