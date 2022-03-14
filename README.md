@@ -24,3 +24,6 @@ The code in this repository performs a genome-wide association study on lipids i
 ---
 
 ![Pooled approach](./docs/pooled_approach.jpg)
+---
+
+![Current status](./docs/current_status.jpg)
