@@ -11,22 +11,7 @@ The code in this repository performs a genome-wide association study on lipids i
 
 # Project context
 
-![Title slide](./docs/title_slide.jpg)
----
-
-![What is this project](./docs/what_slide.jpg)
----
-
-![Why do this project](./docs/why_slide.jpg)
----
-
-![How are we doing this project](./docs/how_slide.jpg)
----
-
-![Siloed approach](./docs/siloed_approach.jpg)
----
-
-![Pooled approach](./docs/pooled_approach.jpg)
----
-
-![Current status](./docs/current_status.jpg)
+Please see our [preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.11.29.518423):
+> **Cloud gazing: demonstrating paths for unlocking the value of cloud genomics through cross-cohort analysis**
+> Nicole Deflaux, Margaret Sunitha Selvaraj, Henry Robert Condon, Kelsey Mayo, Sara Haidermota, Melissa A. Basford, Chris Lunt, Anthony A. Philippakis, Dan M. Roden, Josh C. Denny, Anjene Musick, Rory Collins, Naomi Allen, Mark Effingham, David Glazer, Pradeep Natarajan, Alexander G. Bick
+> bioRxiv 2022.11.29.518423; doi: https://doi.org/10.1101/2022.11.29.518423
